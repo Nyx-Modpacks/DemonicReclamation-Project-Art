@@ -5,4 +5,4 @@ Art for our Jampacked 2 Project
 Nothing to do! :D
 
 #Team Assignment
-Blankvoid - Alooonnnnneeeeee~ (Lead artist?)
+Blankvoid - Alooonnnnneeeeee~ (Lead artist)
