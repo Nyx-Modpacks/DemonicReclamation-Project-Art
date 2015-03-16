@@ -2,7 +2,7 @@
 Art for our Jampacked 2 Project
 
 # Current projects
-Nothing to do! :D
+Create concepts for new creepers
 
 #Team Assignment
 Blankvoid - Alooonnnnneeeeee~ (Lead artist)
