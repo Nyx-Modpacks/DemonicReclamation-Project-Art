@@ -4,7 +4,7 @@ Art for our Jampacked 2 Project
 ###### Modlist
 Find the modlist [here](https://docs.google.com/spreadsheets/d/1U2YEvQ4C5O_1uUFvwbVg72HFOckIbKkcRN6LxPkydjs/)
 
-## Current projects
+## Projects
 - [ ] Create concepts for new creepers/mobs
 - [ ] Create a group logo and banner
 
