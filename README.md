@@ -8,7 +8,8 @@ Find the modlist [here](https://docs.google.com/spreadsheets/d/1U2YEvQ4C5O_1uUFv
 - [ ] Create concepts for new creepers/mobs
 - Deadline: Indefinate
 - [ ] Create a group logo and banner
-- Deadline: 22/03/2015 (Sun), 10:00 PM
+- Draft Deadline: 21/03/2015 (Sat), 10:00 PM
+- Rendered Deadline: 28/03/2015 (Sat), 10:00PM
 
 ## Team Members
 Blankvoid - Alooonnnnneeeeee~ (Lead artist)
